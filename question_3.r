@@ -18,8 +18,6 @@ for (i in 1:48895) {
   }
 }
 
-
-
 library(ggplot2)
 
 #scatterplot
