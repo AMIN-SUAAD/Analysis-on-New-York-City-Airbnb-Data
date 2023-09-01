@@ -16,5 +16,3 @@ ggplot(nycData) +
 ggplot(nycData, aes(x = room_type, fill = neighbourhood_group)) +
   geom_bar(position = position_dodge()) +
   theme_classic()
-
-
