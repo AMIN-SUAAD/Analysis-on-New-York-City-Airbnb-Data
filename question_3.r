@@ -31,26 +31,3 @@ ggplot(nycData) +
 #histogram
 ggplot(nycData, aes(x = price, fill = neighbourhood_group)) +
   geom_histogram(boundary = 0, breaks = c(0 ,69, 106, 175, 10000))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
