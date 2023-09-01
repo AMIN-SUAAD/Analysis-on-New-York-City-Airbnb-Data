@@ -23,13 +23,3 @@ ggplot(nycData, aes(x=room_type, y=number_of_reviews)) +
 #mean plot to be extra sure
 plotmeans(number_of_reviews ~ room_type, data = nycData, frame = FALSE,
           mean.labels = TRUE, connect = FALSE)
-
-
-
-
-
-
-
-
-
-
