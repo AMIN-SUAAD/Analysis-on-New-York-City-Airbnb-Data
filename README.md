@@ -1,6 +1,6 @@
 # Data Visualization
 
-This was the final project for the course "Data Visualization". Five research questions were answered using the provided R files. The questions are:
+This was the final project for the course "Data Visualization". Five research questions were answered using the provided R files. The dataset was collected from kaggle. The five questions are:
 1. Is there any significant linear relationship between the numerical variables of the dataset?
 2. Does the geographic location have a significant effect on the type of room?
 3. Does location has an impact on price?
