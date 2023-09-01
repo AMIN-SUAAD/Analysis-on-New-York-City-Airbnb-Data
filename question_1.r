@@ -18,11 +18,7 @@ print(sum)
 
 # So, both are happening together. Now let's replace.
 
-
-
 nycData$reviews_per_month[is.na(nycData$reviews_per_month)] <- 0
-
-
 
 # taking only the numerical variables of the nycData
 
@@ -38,9 +34,3 @@ corrplot(M, method = "color")
 # our ques can be also answered by using scatterplot matrix
 
 pairs(nycNumerical, pch = 19)
-
-
-
-
-
-
