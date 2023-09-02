@@ -1,6 +1,6 @@
 # Analysis on New York City Airbnb Data
 
-This was the final project of "Data Visualization" course of my Master's study. Five research questions were answered using the provided R files. The dataset was collected from kaggle. The five questions are:
+This was the final project of "Data Visualization" course of my Master's study. Five research questions were formed and answered using the provided R files. The dataset was collected from kaggle. The five questions are:
 1. Is there any significant linear relationship between the numerical variables of the dataset?
 2. Does the geographic location have a significant effect on the type of room?
 3. Does location has an impact on price?
