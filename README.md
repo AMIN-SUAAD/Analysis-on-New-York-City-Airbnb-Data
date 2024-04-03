@@ -7,4 +7,4 @@ This was the final project of "Data Visualization" course of my Master's study. 
 4. Which type of room is the cheapest and is that more popular among the customers?
 5. Depending on the previous analysis, Manhattan is most likely the most expensive area. Does the rent decreases as we go far from Manhattan?
 
-Please, feel free to use the notebook as a reference if you would like to do a similar kind of analysis.
+Please, feel free to use the code files as a reference if you would like to do a similar kind of analysis.
